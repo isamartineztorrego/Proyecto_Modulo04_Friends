@@ -10,7 +10,7 @@ _As two lovers of this iconic romantic comedy series that premiered in 1994, we 
 |Names|GitHub_link_user_name|LinkedIn|
 |-----|------------------|------------------|
 |_Isabel Martínez_|https://github.com/isamartineztorrego|https://www.linkedin.com/in/isabelmartineztorrego/|
-|_Paola Sánchez_|https://github.com/paolasanchezsolorzano|https://www.linkedin.com/in/paola-s%C3%A1nchez-sol%C3%B3rzano-5a05751b4/|
+|_Paola Sánchez_|https://github.com/paolasanchezsolorzano|https://www.linkedin.com/in/paola-sánchez-solórzano-5a05751b4|
 
 
 ## Intelligent Narrative Visualization in Power BI
